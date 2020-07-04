@@ -40,7 +40,7 @@ public class Utility {
 		public final static String CONSIGLI = "Ti ricordo che l'obiettivo del gioco e' capire come funzionano le interazioni tra i nani: per fare la tua prossima scelta, basati sull'esito dello scontro precedente"
 				+ " per riuscire a sconfiggere il Golem dell'avversario";
 
-		public static final String STESSO_NOME = "Davvero vi chiamate nello stesso modo? Per favore, almeno mettete un numero che vi distingua!\n";
+		public static final String STESSO_NOME = "Non potete inserire un nome uguale, se no come faccio a distinguervi?\n";
 		public static final String DATO_SCORRETTO = "Il dato inserito non e' corretto: riprova\n";
 		public static final String NUOVA_PARTITA = "\nVuoi giocare una nuova partita?";
 		public static final String BRAO = "Bravo, almeno una scelta giusta la fai ogni tanto!\\n";
